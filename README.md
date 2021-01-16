@@ -15,7 +15,7 @@ ___
 *  JavaScript
 
 ## Screen Shots
-
+![JokeGenerator](https://user-images.githubusercontent.com/70000075/104798102-8d701100-5789-11eb-874b-669923fd88ce.png)
 ___    
 ## Functions 
 ---
