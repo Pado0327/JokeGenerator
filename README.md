@@ -18,7 +18,7 @@ A Joke-Teller project (JavsSCript Web Projects: 20 Projects to build Your Portfo
 ![JokeGenerator](https://user-images.githubusercontent.com/70000075/104798102-8d701100-5789-11eb-874b-669923fd88ce.png)
  
 ## Functions 
----
+
 *   Get Jokes from Joke API
 *   Print Joke (with typing effect)
 
